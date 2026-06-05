@@ -1,5 +1,4 @@
 # Selenium Java Automation Framework
-
 ## Technologies
 - Java
 - Selenium WebDriver
