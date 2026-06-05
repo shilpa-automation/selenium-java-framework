@@ -1,27 +1,20 @@
 # Selenium Java Automation Framework
 
-## Tech Stack
+## Technologies
 - Java
 - Selenium WebDriver
 - TestNG
 - Maven
-- Apache POI
-- Log4j
-- Git & GitHub
+- Git
+- GitHub
 
 ## Features
 - Page Object Model
-- Data Driven Testing using Excel
-- Screenshot Capture on Failure
-- Logging using Log4j
-- TestNG Reporting
+- Data Driven Testing
+- Cross Browser Testing
+- Logging
+- Reporting
 
-## Project Structure
-src/main/java
-src/test/java
-reports
-screenshots
-logs
+## Run Tests
 
-## Execution
-mvn test
+mvn clean test
